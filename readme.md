@@ -41,15 +41,7 @@ After installation, navigate to LinkedIn and use the extension as follows:
 
 No additional configuration is required. The auto-like feature can be toggled on and off directly from the extension's popup menu.
 
-## Contributing
 
-Contributions to improve the extension are welcome. Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`.
-3. Make your changes and commit them: `git commit -am 'Add some feature'`.
-4. Push to the branch: `git push origin feature/your-feature-name`.
-5. Submit a pull request.
 
 ## License
 
