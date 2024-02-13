@@ -1,4 +1,4 @@
-Creating a comprehensive `README.md` file for your GitHub repository is crucial for explaining the purpose, setup, and usage of your Chrome extension. Below is a template that you can adjust according to your project's specifics.
+
 
 ```markdown
 # LinkedIn Auto-Liker Chrome Extension
